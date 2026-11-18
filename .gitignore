@@ -1,0 +1,11 @@
+
+
+# 2026 baseline
+.env
+.env.*
+!.env.example
+.DS_Store
+node_modules/
+dist/
+coverage/
+*.log
